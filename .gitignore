@@ -1,0 +1,8 @@
+Carthage
+Frameworks/*.framework
+Frameworks/*.bundle
+.DS_Store
+xcuserdata
+Dependencies
+downloads
+NYCLandmarks/config.plist

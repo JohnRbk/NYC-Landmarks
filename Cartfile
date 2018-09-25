@@ -1,0 +1,4 @@
+github "DaveWoodCom/XCGLogger" ~> 6.0.4
+binary "https://www.mapbox.com/ios-sdk/Mapbox-iOS-SDK.json" ~> 4.4
+github "Alamofire/Alamofire" ~> 4.7
+github "Alamofire/AlamofireImage" ~> 3.4
